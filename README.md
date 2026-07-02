@@ -1,5 +1,3 @@
-# AI-Powered-Clinical-Decision-Support-System
-
 # AI-Powered Clinical Decision Support System (CDSS)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
